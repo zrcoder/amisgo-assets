@@ -2,9 +2,9 @@
 
 ## Logo Attribution
 
-![Logo with text](logo-with-text.svg)
-
 ![Logo](logo.svg)
+
+![Logo with text](logo-with-text.svg)
 
 The AmisGo logo is a derivative work based on a Gopher SVG icon:
 
