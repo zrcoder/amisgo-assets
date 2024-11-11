@@ -6,10 +6,10 @@
 
 ![Logo with text](logo-with-text.svg)
 
-The AmisGo logo is a derivative work based on a Gopher SVG icon:
+The AmisGo logo is a derivative work based on the Go gopher favicon:
 
-- This project is for non-commercial use only
-- If you are the original author of the original SVG, please contact us for proper attribution
+- Original SVG source: [golang/website](https://github.com/golang/website/blob/3a761022ad6ff0280a444482b7c8deb56f0ab372/_content/doc/gopher/favicon.svg)
+- The Go gopher was designed by [Renee French](https://reneefrench.blogspot.com/)
 
 ## License
 
@@ -20,6 +20,3 @@ This work is licensed under [![License: CC BY-NC-SA 4.0](https://img.shields.io/
 - Attribution — You must give appropriate credit
 - NonCommercial — You may not use the material for commercial purposes
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
-
-For more details about CC BY-NC-SA 4.0, please visit:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
