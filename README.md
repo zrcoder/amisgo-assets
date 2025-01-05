@@ -6,7 +6,7 @@
 
 ![Logo with text](logo-with-text.svg)
 
-The AmisGo logo is a derivative work based on the Go gopher favicon:
+The amisgo logo is a derivative work based on the Go gopher favicon:
 
 - Original SVG source: [golang/website](https://github.com/golang/website/blob/3a761022ad6ff0280a444482b7c8deb56f0ab372/_content/doc/gopher/favicon.svg)
 - The Go gopher was designed by [Renee French](https://reneefrench.blogspot.com/)
